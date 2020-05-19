@@ -1,6 +1,7 @@
 ---
-layout: post-index
+layout: presentation-post-index
 title: Contact
+excerpt: "Contact"
 ---
 
 ## Karoline Ceron
