@@ -1,6 +1,6 @@
 ---
 title: "Home"
-Excerpt: "Trophic Ecology"
+excerpt: "Trophic Ecology"
 permalink: /home/
 
 
