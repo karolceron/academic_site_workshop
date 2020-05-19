@@ -1,5 +1,4 @@
 ---
-layout: resume
 title: "CV"
 permalink: /cv/
 
@@ -39,7 +38,7 @@ Herpetology Notes
 
 ## Publications
 
-<-- A list is also available [online](https://scholar.google.com.br/citations?user=k04bIL4AAAAJ&hl=pt-BR) -->
+<-- A list is also available [online](https://www.researchgate.net/profile/Karoline_Ceron) -->
 
 
 ## Awards
