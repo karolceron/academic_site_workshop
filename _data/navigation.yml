@@ -1,8 +1,8 @@
 # Site navigation links
 - title: Home
-  url: /
+  url: /index/
 
-- title: Presentations
+- title: Publications
   url: /presentations/
 
 - title: CV
