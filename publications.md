@@ -1,7 +1,7 @@
 ---
-layout: presentation-post-index
 title: "Publications"
-permalink: /publications/
+excerpt: "Publications"
+permalink: /contact/ 
 ---
 # *In press*
 
