@@ -1,15 +1,13 @@
 # Site navigation links
 - title: Home
-  url: /index/
+  url: /home/
 
 - title: Publications
-  url: /presentations/
+  url: /publications/
 
 - title: CV
   url: /cv/
 
-- title: Blog
+- title: Contact
   url: /blog/
 
-- title: Workshops
-  url: /workshops/
