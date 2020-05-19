@@ -1,7 +1,7 @@
 ---
-layout: presentation-post-index
-title: Contact
+title: "Contact"
 excerpt: "Contact"
+permalink: /contact/
 ---
 
 ## Karoline Ceron
