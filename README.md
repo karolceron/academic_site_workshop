@@ -1,5 +1,4 @@
 ---
-title: 
-excerpt: 
-permalink: /
+layout: page
+excerpt: "About Me..."
 ---
