@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Currently
 
-PhD. candidate at Universidade Federal de Mato Grosso do Sul
+PhD. candidate at Universidade Federal de Mato Grosso do Sul, Brazil
 
 ## Education
 
