@@ -12,11 +12,10 @@ owner:
   email: adenomera@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: ceronkarol
-  linkedin: #username
-  github: karolceron
-  orcid: 0000-0003-2354-3756
   researchgate: Karoline_Ceron
-  mendeley: #username
+  orcid: 0000-0003-2354-3756
+  github: karolceron
+  linkedin: #username
   google:
     plus: #username
     analytics:
