@@ -1,6 +1,6 @@
 ---
 layout: presentation-post-index
-title: Presentations
+title: Publications
 excerpt: "Publications"
 ---
 # *In press*
