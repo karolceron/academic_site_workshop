@@ -1,5 +1,5 @@
 
-## I'm interested in how trophic interactions are distributed both in space and time!
+### I'm interested in how trophic interactions are distributed both in space and time!
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-###### Karoline Ceron | <adenomera@gmail.com>  [![alt text][1.1]][1]  [![alt text][6.1]][6]
+##### Karoline Ceron | <adenomera@gmail.com>  [![alt text][1.1]][1]  [![alt text][6.1]][6]
  
  [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
  
