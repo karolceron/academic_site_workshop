@@ -17,14 +17,9 @@ owner:
   orcid: 0000-0003-2354-3756
   linkedin: #username
   google:
-    plus: #username
-    analytics:
-    verify:
-    scholar: k04bIL4AAAAJ&hl
-  facebook: #username
-  instagram: #username
+     scholar: k04bIL4AAAAJ&hl
   
-
+  
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
 highlight-color: '#008000'
