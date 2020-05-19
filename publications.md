@@ -1,6 +1,7 @@
 ---
 layout: presentation-post-index
-title: Publications
+title: "Publications"
+permalink: /publications/
 ---
 # *In press*
 
