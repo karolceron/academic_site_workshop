@@ -1,21 +1,21 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: Trophic Ecology
+locale: Brazil
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  name: Karoline Ceron
+  avatar: me.jpg
+  bio: "Karoline Ceron website"
+  email: adenomera@gmail.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: ceronkarol
   linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  github: karolceron
+  orcid: # 0000-0003-2354-3756
+  researchgate: #Karoline_Ceron
   mendeley: #username
   google:
     plus: #username
