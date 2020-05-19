@@ -1,5 +1,10 @@
-## Trophic Ecology
+---
+title: "Home"
+Excerpt: "Trophic Ecology"
+permalink: /home/
 
+
+---
 
 ### I'm interested in how trophic interactions are distributed both in space and time!
 
