@@ -19,7 +19,7 @@ Master in Environmental Science
 
 `2010 - 2013`
 __Universidade do Extremo Sul Catarinense__
-Biologist
+Bachelor’s in Biological Sciences
 
 ## Reviewer for journals
 
@@ -34,6 +34,12 @@ Check List
 Herpetological Conservationa and Biology
 
 Herpetology Notes
+
+## Research experience and technical skills
+- Field work to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
+
+- Programming languages: R. 
+- Spatial anaylis: QGIS. 
 
 
 ## Publications
