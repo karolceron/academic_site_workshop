@@ -10,4 +10,4 @@ excerpt: "About Me..."
 ## Research Interests
 Trophic ecology, Ecological networks, Metacommunity Dynamics, Natural history of Neotropical anurans.
 
-![prancha](prancha.jpg)
+![prancha](Prancha.jpg)
