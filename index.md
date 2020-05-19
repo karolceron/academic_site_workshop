@@ -1,12 +1,23 @@
+# Trophic Ecology
+
+## I'm interested in how trophic interactions are distributed both in space and time!
+
 ---
-layout: page
-excerpt: "About Me..."
+
+![rede](Figure.jpg)
+
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+###### Karoline Ceron | <adenomera@gmail.com>  [![alt text][1.1]][1]  [![alt text][6.1]][6]
+ 
+ [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+ 
+  [1]: http://www.twitter.com/ceronkarol 
+  
+  
+  
+  [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+ 
+ [6]: http://www.github.com/karolceron      
 
-## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
