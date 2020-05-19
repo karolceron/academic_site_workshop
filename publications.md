@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 excerpt: "Publications"
-permalink: /contact/ 
+permalink: /publications/ 
 ---
 # *In press*
 
