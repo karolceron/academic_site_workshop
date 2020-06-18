@@ -31,9 +31,13 @@ Biodiversitas (Journal of Biological Diversity)
 
 Check List
 
+Diversity and Distributions
+
 Herpetological Conservationa and Biology
 
 Herpetology Notes
+
+North-Western Journal of Zoology
 
 ## Research experience and technical skills
 - Field work to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
