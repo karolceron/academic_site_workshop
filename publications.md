@@ -7,6 +7,8 @@ permalink: /publications/
 
 Perez, J.A.D.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
 
+Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus chaquensis* (Anura: Leptodactylidae). Herpetologia Brasileira, 2020.
+
 
 # 2020
 **Ceron, K**; Santana, DJ; Lucas, E.M; Zocche, J.J; Provete, D.B. Climatic variables influence the temporal dynamics of an anuran metacommunity in a nonstationary way. Ecology and Evolution, 2020; 10: 4630– 4639. [Link](https://doi.org/10.1002/ece3.6217).
