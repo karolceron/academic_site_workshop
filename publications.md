@@ -5,9 +5,11 @@ permalink: /publications/
 ---
 # *In press*
 
+**Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PloS One, 2020.
+
 Perez, J.A.D.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
 
-Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus chaquensis* (Anura: Leptodactylidae). Herpetologia Brasileira, 2020.
+Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira, 2020.
 
 
 # 2020
