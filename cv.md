@@ -39,6 +39,8 @@ Herpetology Notes
 
 North-Western Journal of Zoology
 
+The Herpetological Journal
+
 ## Research experience and technical skills
 - Field work to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
 
