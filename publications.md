@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 # *In press*
 
+Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the Odontophrynus americanus Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA, 2020.
+
 **Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PloS One, 2020.
 
 Perez, J.A.D.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
