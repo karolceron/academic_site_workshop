@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 # *In press*
 
-Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the Odontophrynus americanus Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA, 2020.
+Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA, 2020.
 
 **Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PloS One, 2020.
 
@@ -21,7 +21,7 @@ Oliveira-Jr., J.G.; **Ceron, K.**; Mangia, S.; Santana, D.J. Predation on *Amero
 
 **Ceron, K.**; Carvalho, P.S.; Mocklinghoff, L.; Santana, D.J. Diurnal feeding behaviour of crab-eating raccoon upon a paradoxal’ frog, with a review of crab-eating raccoon diet. Acta biol. colomb, v. 25, p. 359-367, 2020. [Link](https://doi.org/10.15446/abc.v25n2.79721).
 
-Michelin, G.; **Ceron, K.**; Santana, D.J. Prey availability influences the diet of Scinax fuscomarginatus in a Cerrado area, Central Brazil. Animal Biodiversity and Conservation, v. 43, p. 169-175, 2020. [Link](https://doi.org/10.32800/abc.2020.43.0169).
+Michelin, G.; **Ceron, K.**; Santana, D.J. Prey availability influences the diet of *Scinax fuscomarginatus* in a Cerrado area, Central Brazil. Animal Biodiversity and Conservation, v. 43, p. 169-175, 2020. [Link](https://doi.org/10.32800/abc.2020.43.0169).
 
 Luciano, B.F.L.; **Ceron, K.**; Bolla, D.; Zocche, J.J.; Carvalho, F. New records of predation attempt on *Rhinella* spp. in the Atlantic Forest: The importance of camera trap in recording species natural history. Herpetology Notes, v. 13, p. 253-256, 2020. [Link](https://www.biotaxa.org/hn/article/view/56300).
 
