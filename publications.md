@@ -14,9 +14,9 @@ Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside ou
 
 # 2020
 
-**Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PLOS ONE; 2020, 15(9): e0239874. [Link](https://doi.org/10.1371/journal.pone.0239874)
+**Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PLOS ONE; 2020, 15(9): e0239874. [Link](https://doi.org/10.1371/journal.pone.0239874) - [Vídeo abstract](https://youtu.be/sdthvs8WBO0)
 
-**Ceron, K**; Santana, DJ; Lucas, E.M; Zocche, J.J; Provete, D.B. Climatic variables influence the temporal dynamics of an anuran metacommunity in a nonstationary way. Ecology and Evolution, 2020; 10: 4630– 4639. [Link](https://doi.org/10.1002/ece3.6217).
+**Ceron, K**; Santana, DJ; Lucas, E.M; Zocche, J.J; Provete, D.B. Climatic variables influence the temporal dynamics of an anuran metacommunity in a nonstationary way. Ecology and Evolution, 2020; 10: 4630– 4639. [Link](https://doi.org/10.1002/ece3.6217) - [Vídeo abstract](https://youtu.be/-0x5_19pIhs)
 
 Oliveira-Jr., J.G.; **Ceron, K.**; Mangia, S.; Santana, D.J. Predation on *Amerotyphlops brongersmianus* (Squamata, Typhlopidae) by *Bothrops moojeni* (Squamata, Viperidae) in West Brazil. Caldasia, v. 42, p. 150-152, 2020. [Link](https://doi.org/10.15446/caldasia.v42n1.74998).
 
@@ -32,7 +32,7 @@ Pacheco, E.O.; **Ceron, K.**; Akieda, P.S.; Santana, D.J. Diet and morphometry o
 
 # 2019
 
-**Ceron, K.**; Oliveira-Santos, L. G.; Souza, C. S.; Mesquita, D. O.; Caldas, F.; Araujo, A. C.; Santana, D. J. Global patterns in anuran-prey networks: Structure mediated by latitude. Oikos, v. 128, p. 1537-1548, 2019. [Editor’s Choice] [Link](https://doi.org/10.1111/oik.06621).
+**Ceron, K.**; Oliveira-Santos, L. G.; Souza, C. S.; Mesquita, D. O.; Caldas, F.; Araujo, A. C.; Santana, D. J. Global patterns in anuran-prey networks: Structure mediated by latitude. Oikos, v. 128, p. 1537-1548, 2019. [Editor’s Choice] [Link](https://doi.org/10.1111/oik.06621) - [Vídeo abstract](https://youtu.be/l32GlDZi3kY)
 
 Silva, I. C. O. ; Carvalho, S. S. ; **Ceron, K.** ; Santana, D. J. ; Tavares, L. E. R. . Diptera parasitism in *Trachycephalus typhonius* (Anura: Hylidae), with a review of this parasitism in anurans. Phyllomedusa: Journal of Herpetology, v. 18, p. 283-292, 2019. [Link](http://www.revistas.usp.br/phyllo/article/view/165162/158258).
 
