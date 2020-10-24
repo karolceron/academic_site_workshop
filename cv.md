@@ -39,6 +39,8 @@ Herpetology Notes
 
 North-Western Journal of Zoology
 
+PeerJ
+
 The Herpetological Journal
 
 ## Research experience and technical skills
