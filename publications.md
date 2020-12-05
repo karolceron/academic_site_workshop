@@ -9,12 +9,14 @@ permalink: /publications/
 
 Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA, 2020.
 
-Perez, J.A.D.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
+
 
 Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira, 2020.
 
 
 # 2020
+
+Diaz, J.A.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020, 16 (2): 166-171. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
 
 **Ceron, K.**; Santana, D.J.; Valente-Neto, F. Seasonal patterns of ecological uniqueness of anuran metacommunities along different ecoregions in Western Brazil. PLOS ONE; 2020, 15(9): e0239874. [Link](https://doi.org/10.1371/journal.pone.0239874) - [Vídeo abstract](https://youtu.be/sdthvs8WBO0)
 
