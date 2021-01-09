@@ -12,7 +12,7 @@ Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside ou
 
 # 2020
 
-**Ceron, K.**; Severgnini, M.R.; Provete, D.B. Boas práticas na análise de séries temporais em herpetologia. Herpetologia Brasileira,  v. 9, p. 72-85, 2020.[Link](https://www.researchgate.net/publication/348336617_Boas_praticas_na_analise_de_series_temporais_em_Herpetologia_Herpetologia_Brasileira_vol_9_n_3_p_72-85).
+**Ceron, K.**; Severgnini, M.R.; Provete, D.B. Boas práticas na análise de séries temporais em herpetologia. Herpetologia Brasileira,  v. 9, p. 72-85, 2020. [Link](https://www.researchgate.net/publication/348336617_Boas_praticas_na_analise_de_series_temporais_em_Herpetologia_Herpetologia_Brasileira_vol_9_n_3_p_72-85).
 
 Diaz, J.A.; Sugai, J.L.M.M. ; **Ceron, K.**; Moroti, M. T.; Santana, D. J. Dietary selectivity and sexual size dimorphism of *Chiasmocleis mehelyi* (Anura: Microhylidae) in a Cerrado area of southwest Brazil. North-Western Journal of Zoology, 2020, 16 (2): 166-171. [Link](http://biozoojournals.ro/nwjz/content/acc/nwjz_e201502_Diaz_acc.pdf/).
 
