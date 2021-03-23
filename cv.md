@@ -3,13 +3,10 @@ title: "CV"
 permalink: /cv/
 
 ---
-## Currently
-
-PhD. candidate at Universidade Federal de Mato Grosso do Sul, Brazil
 
 ## Education
 
-`2016 - `
+`2016 - 2021`
 __Universidade Federal de Mato Grosso do Sul__
 Doctoral in Ecology and Conservation
 
