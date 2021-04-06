@@ -11,7 +11,7 @@ permalink: /publications/
 
 **Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal.
 
-Matos, L.R.A;Ramalho, W.P.;**Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
+Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
 
 ## *In press*
 
