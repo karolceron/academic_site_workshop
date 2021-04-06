@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 # *In press*
 
-Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA, 2020.
+Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA.
 
-Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira, 2020.
+Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira.
 
 
 # 2020
