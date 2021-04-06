@@ -3,7 +3,7 @@ title: "Publications"
 excerpt: "Publications"
 permalink: /publications/ 
 ---
-# *Submitted (in review)*
+## *Submitted (in review)*
 
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Prey availability and interaction rewiring drive the spatial and seasonal structure of an anuran-prey metaweb.
 
@@ -13,14 +13,14 @@ permalink: /publications/
 
 Matos, L.R.A;Ramalho, W.P.;**Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
 
-# *In press*
+## *In press*
 
 Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA.
 
 Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira.
 
 
-# 2020
+## 2020
 
 **Ceron, K.**; Severgnini, M.R.; Provete, D.B. Boas práticas na análise de séries temporais em herpetologia. Herpetologia Brasileira,  v. 9, p. 72-85, 2020. [Link](https://www.researchgate.net/publication/348336617_Boas_praticas_na_analise_de_series_temporais_em_Herpetologia_Herpetologia_Brasileira_vol_9_n_3_p_72-85).
 
@@ -42,7 +42,7 @@ Severgnini, M. R. ; Moroti, M. T. ; Pedrozo, M. ; **Ceron, K.**; Santana, D. J. 
 
 Pacheco, E.O.; **Ceron, K.**; Akieda, P.S.; Santana, D.J. Diet and morphometry of two poison frog species (Anura, Dendrobatidae) from the plateaus surrounding the Pantanal of Mato Grosso do Sul state, Brazil. Studies on Neotropical Fauna and Environment, p. 1-9, 2020. [Link](https://doi.org/10.1080/01650521.2020.1746098).
 
-# 2019
+## 2019
 
 **Ceron, K.**; Oliveira-Santos, L. G.; Souza, C. S.; Mesquita, D. O.; Caldas, F.; Araujo, A. C.; Santana, D. J. Global patterns in anuran-prey networks: Structure mediated by latitude. Oikos, v. 128, p. 1537-1548, 2019. [Editor’s Choice] [Link](https://doi.org/10.1111/oik.06621) - [Vídeo abstract](https://youtu.be/l32GlDZi3kY)
 
@@ -54,7 +54,7 @@ Moroti, M. T.; Pedrozo, M.; **Ceron, K.**; Soares, C. P.; Machado, I. F. Composi
 
 Alves, M. R.; **Ceron, K.**; Preuss, G.; Zocche, J. J.; Carvalho, F. *Leptodactylus gracilis*. (Dumeril's Striped Frog). Attempt predation. Herpetological Review, v. 50, p. 546-546, 2019. [Link](https://www.researchgate.net/publication/335984791_LEPTODACTYLUS_GRACILIS_Dumeril's_Striped_Frog_PREDATION).
 
-# 2018
+## 2018
 
 Zocche, J. J.; **Ceron, K.** ; Gonzaga, G. S.; Plucenio, G. P.; Carvalho, F. Predation on *Chironius bicarinatus* (Wied, 1820) (Serpentes: Colubridae) By a Roadside Hawk *Rupornis magnirostris* (Gmelin, 1788) (Aves: Accipitridae). Herpetology Notes, v. 11, p. 129-131, 2018. [Link](https://www.biotaxa.org/hn/article/view/32548).
 
@@ -72,7 +72,7 @@ Domingos, C. V.; Silva, J. A.; **Ceron, K.**.; Sugai, J. L. M. M.; Santana, D. J
 
 Preuss, G.; Bangiolo, E.; Bolla, D.; **Ceron, K.**.; Carvalho, F. Predation on the southern water snake, *Nerodia fasciata* (Serpentes: Natricidae) By American Bittern, *Botaurus lentiginosus* (Aves: Ardeidae). Herpetology Notes, v. 11, p. 943-944, 2018. [Link](https://www.biotaxa.org/hn/article/view/36967).
 
-# 2017 
+## 2017 
 
 Zocche, J. J.; Zocche, N. M.; Carvalho, F.; Mendonca, R. A.; **Ceron, K.**; Peres, P. B.; Cruz Neto, A. P. *Philodryas patagoniensis* (Patagonian Green Racer). Diet. Herpetological Review, v. 48, p. 217-218, 2017. [Link](https://www.researchgate.net/publication/315498244_Philodryas_patagoniensis_Diet).
 
@@ -90,7 +90,7 @@ Neves, M. O.; Ferreira, V. G.; Fonseca, E. M.; **Ceron, K.**.; Carvalho, R. M. H
 
 Bolla, D.; **Ceron, K.**; Carvalho, F.; Mattia, D. L.; Luiz, M.; Panatta, K.; Pavei, D. D.; Zocche, J. J. Mastofauna terrestre do Sul de Santa Catarina: Mamíferos de médio e grande porte e voadores. Revista de Tecnologia e Ambiente, v. 23, p. 61-78, 2017. [Link](http://periodicos.unesc.net/tecnoambiente/article/view/3906).
 
-# 2016
+## 2016
 
 Gava-Just, J. P; **Ceron, K.**; Zocche, J. J; Martins, I. *Hypsiboas faber* (Blacksmith Treefrog). Predation. Herpetological Review, v. 47, p. 110-111, 2016. [Link](https://www.researchgate.net/publication/297730677_HYPSIBOAS_FABER_Blacksmith_Treefrog_PREDATION).
 
