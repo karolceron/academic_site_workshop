@@ -15,7 +15,7 @@ permalink: /home/
 ![rede](Figure.jpg)
 
 
-> ### My research is highly collaborative. Most of my publications have been done in close collaboration with colleagues in many institutions worldwide. I believe in a  collaborative and inclusive science to a changing world. 
+> ### I believe in a  collaborative and inclusive science to a changing world. Most of my publications have been done in close collaboration with colleagues in many institutions worldwide. 
 
 ![wordcloud](https://user-images.githubusercontent.com/65569572/115733636-6fedad00-a35f-11eb-80c1-873f170cbc08.jpg)
 
