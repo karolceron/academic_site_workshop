@@ -9,11 +9,11 @@ permalink: /publications/
 
 **Ceron, K.**; Vieira, C.; Carvalho, P.S.; Carrillo, J.F.C.; Alonso, J.; Santana, D.J. Epidemiology of Snakebites from Mato Grosso do Sul, Brazil
 
-**Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal.
-
 Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
 
 ## *In press*
+
+**Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica.
 
 Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. COPEIA.
 
