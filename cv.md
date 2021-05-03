@@ -42,6 +42,8 @@ North-Western Journal of Zoology
 
 PeerJ
 
+Phyllomedusa
+
 The Herpetological Journal
 
 ## Research experience and technical skills
