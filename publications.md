@@ -15,11 +15,11 @@ Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J.
 
 **Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica.
 
-Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira.
-
 ## 2021
 
 Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. Ichthyology & Herpetology 109(1), 228-244, 2021. [Link](https://doi.org/10.1643/h2020056)
+
+Ragalzi, E.; **Ceron, K.**; Piatti, L.; Severo-Neto, F.; Santana, D.J. Inside out: Unhappy feed of *Scapteriscus* sp. (Orthoptera: Gryllotalpidae) by *Leptodactylus macrosternum* (Anura: Leptodactylidae). Herpetologia Brasileira 10, 85-89, 2021. [Link](https://zenodo.org/record/4716416#.YJrlx7VKjIU)
 
 
 ## 2020
