@@ -7,11 +7,13 @@ permalink: /publications/
 
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Prey availability and interaction rewiring drive the spatial and seasonal structure of an anuran-prey metaweb.
 
-**Ceron, K.**; Vieira, C.; Carvalho, P.S.; Carrillo, J.F.C.; Alonso, J.; Santana, D.J. Epidemiology of Snakebites from Mato Grosso do Sul, Brazil
-
 Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
 
+Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography.
+
 ## *In press*
+
+**Ceron, K.**; Vieira, C.; Carvalho, P.S.; Carrillo, J.F.C.; Alonso, J.; Santana, D.J. Epidemiology of snake envenomation from Mato Grosso do Sul, Brazil. PLOS Neglected Tropical Diseases.
 
 **Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica.
 
