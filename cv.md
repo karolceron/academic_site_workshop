@@ -32,6 +32,8 @@ Current Herpetology
 
 Diversity and Distributions
 
+Ecology Letters
+
 Herpetological Conservationa and Biology
 
 Herpetology Notes
