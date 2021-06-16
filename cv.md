@@ -66,6 +66,15 @@ The Herpetological Journal
 Best student poster in 4ª Science and Technology week, UNESC 
 
 
+## Talks
+
+`Jun/2021` Ecologia Trófica de Anuros. GEAS UFLA.
+
+`Mai/2021` Ecologia Trófica de Anuros: o início, o fim e o meio. GEAS UniBH.
+
+`Apr/2021` Biomas brasileiros: o Pantanal. SESI Indaiatuba.
+
+`Jan/2021` Ecologia Trófica de Anuros. GEAS UNISO.
 
 <!-- ### Footer
 
