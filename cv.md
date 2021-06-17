@@ -68,6 +68,8 @@ Best student poster in 4ª Science and Technology week, UNESC
 
 ## Talks
 
+`Jun/2021` Global patterns in anuran-prey networks: structure mediated by latitude. UESC, Disciplina de Biologia de Anfíbios.
+
 `Jun/2021` Ecologia Trófica de Anuros. GEAS UFLA.
 
 `Mai/2021` Ecologia Trófica de Anuros: o início, o fim e o meio. GEAS UniBH.
