@@ -13,11 +13,15 @@ Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationsh
 
 ## *In press*
 
+
+
 **Ceron, K.**; Vieira, C.; Carvalho, P.S.; Carrillo, J.F.C.; Alonso, J.; Santana, D.J. Epidemiology of snake envenomation from Mato Grosso do Sul, Brazil. PLOS Neglected Tropical Diseases.
 
 **Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica.
 
 ## 2021
+
+**Ceron, K.**; Provete, D. B. Quero saber... os sapos cantam mais no inverno ou no verão? Revista Ciência Hoje das Crianças, 2021. [Link](http://chc.org.br/artigo/quero-saber-322/)
 
 Rosset, S.D.; Fadel, R.M.; Guimarães, C.S.; Carvalho, P.S.; **Ceron, K.**; Pedrozzo, M.; Serejo, R.; Souza, V.S.; Baldo, D.; Mângia, S. A New Burrowing Frog of the *Odontophrynus americanus* Species Group (Anura, Odontophrynidae) from Subtropical Regions of Argentina, Brazil, and Paraguay. Ichthyology & Herpetology 109(1), 228-244, 2021. [Link](https://doi.org/10.1643/h2020056)
 
