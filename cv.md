@@ -42,6 +42,8 @@ Integrative Zoology
 
 North-Western Journal of Zoology
 
+Papéis Avulsos de Zoologia
+
 PeerJ
 
 Phyllomedusa
