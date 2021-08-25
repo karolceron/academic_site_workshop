@@ -77,6 +77,8 @@ Best student poster in 4ª Science and Technology week, UNESC
 
 ## Talks
 
+`Aug/2021`A disponibilidade de presas e a reorganização das interações governa a estrutura sazonal de uma meta-rede de anuros e presas. USP, PPG Ecologia.
+
 `Jun/2021` Global patterns in anuran-prey networks: structure mediated by latitude. UESC, Disciplina de Biologia de Anfíbios.
 
 `Jun/2021` Ecologia Trófica de Anuros. GEAS UFLA.
