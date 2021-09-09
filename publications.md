@@ -14,14 +14,11 @@ Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationsh
 ## *In press*
 
 
-
-
-
-**Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica.
-
 ## 2021
 
 **Ceron, K.**; Vieira, C.; Carvalho, P.S.; Carrillo, J.F.C.; Alonso, J.; Santana, D.J. Epidemiology of snake envenomation from Mato Grosso do Sul, Brazil. PLOS Neglected Tropical Diseases 15(9): e0009737. [Link](https://doi.org/10.1371/journal.pntd.0009737)
+
+**Ceron, K.**; Mângia, S.; Guedes, T.B.; Alvares, D.J.; Neves, M.O.; Moroti, M.T.; Torello, N.; Borges-Martins, M.; Ferreira, V.L.; Santana, D.J. Ecological niche explains the sympatric occurrence of lined ground snakes of the genus *Lygophis* (Serpentes, Dipsadidae) in the South America Dry Diagonal. Herpetologica 77(3): 239–248. [Link](https://doi.org/10.1655/Herpetologica-D-20-00056.1)
 
 **Ceron, K.**; Provete, D. B. Quero saber... os sapos cantam mais no inverno ou no verão? Revista Ciência Hoje das Crianças, 2021. [Link](http://chc.org.br/artigo/quero-saber-322/)
 
