@@ -11,8 +11,6 @@ Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J.
 
 Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography.
 
-## *In press*
-
 
 ## 2021
 
