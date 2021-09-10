@@ -45,6 +45,8 @@ Herpetological Conservationa and Biology
 
 Herpetology Notes
 
+Hydrobiologia
+
 Integrative Zoology
 
 North-Western Journal of Zoology
