@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 ## *Submitted (in review)*
 
+Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas
+
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Prey availability and interaction rewiring drive the spatial and seasonal structure of an anuran-prey metaweb.
 
 Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes.
