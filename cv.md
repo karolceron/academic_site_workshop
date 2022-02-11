@@ -39,6 +39,8 @@ Current Herpetology
 
 Diversity and Distributions
 
+Ecology and Evolution
+
 Ecology Letters
 
 Herpetological Conservationa and Biology
