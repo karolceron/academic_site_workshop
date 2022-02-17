@@ -9,7 +9,7 @@ Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address
 
 Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography.
 
-## *In Press *
+## *In Press*
 
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Differences in prey availability across space and time lead to interaction rewiring and reshape a predator-prey metaweb. Ecology.
 
