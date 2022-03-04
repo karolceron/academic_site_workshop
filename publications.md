@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## *Submitted (in review)*
 
-Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography.
+
 
 ## *In Press*
 
@@ -14,6 +14,8 @@ Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationsh
 Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes. Wetlands
 
 Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon.
+
+Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography. Ecology and Evolution.
 
 ## 2021
 
