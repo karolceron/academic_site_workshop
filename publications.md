@@ -11,11 +11,14 @@ permalink: /publications/
 
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Differences in prey availability across space and time lead to interaction rewiring and reshape a predator-prey metaweb. Ecology.
 
-Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes. Wetlands
 
 Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon.
 
 Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography. Ecology and Evolution.
+
+## 2022
+
+Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes. Wetlands 42, 21. [Link](https://doi.org/10.1007/s13157-022-01541-x)
 
 ## 2021
 
