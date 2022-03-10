@@ -18,7 +18,7 @@ Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationsh
 
 ## 2022
 
-Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Factors influencing the anuran communities of floating meadows and their ecological networks in Amazonian oxbow lakes. Wetlands 42, 21. [Link](https://doi.org/10.1007/s13157-022-01541-x)
+Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Environmental Drivers and Network Structure of Hylid Anurans (Amphibia: Hylidae) in Floating Meadows from Amazonian Oxbow Lakes. Wetlands 42, 21. [Link](https://doi.org/10.1007/s13157-022-01541-x)
 
 ## 2021
 
