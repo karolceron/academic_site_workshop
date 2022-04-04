@@ -14,9 +14,11 @@ permalink: /publications/
 
 Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon.
 
-Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography. Ecology and Evolution.
+
 
 ## 2022
+
+Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography. Ecology and Evolution. 12, e8754. [Link](https://doi.org/10.1002/ece3.8754)
 
 Matos, L.R.A; Ramalho, W.P.; **Ceron, K.**; Luna, P.; Arruda, F.V.; Vieira, L.J. Environmental Drivers and Network Structure of Hylid Anurans (Amphibia: Hylidae) in Floating Meadows from Amazonian Oxbow Lakes. Wetlands 42, 21. [Link](https://doi.org/10.1007/s13157-022-01541-x)
 
