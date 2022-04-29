@@ -12,11 +12,10 @@ permalink: /publications/
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Differences in prey availability across space and time lead to interaction rewiring and reshape a predator-prey metaweb. Ecology.
 
 
-Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon.
-
-
 
 ## 2022
+
+Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon. 213, 43-51 [Link](https://doi.org/10.1016/j.toxicon.2022.03.012)
 
 Pereira, E.P.; **Ceron, K.**; Silva, H.R.; Santana, D.J.S. Historical relationship between Amazon and Atlantic Forests during the Late Paleogene revealed by Sphaenorhynchini tribe (Anura, Hylidae) biogeography. Ecology and Evolution. 12, e8754. [Link](https://doi.org/10.1002/ece3.8754)
 
