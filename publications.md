@@ -3,17 +3,10 @@ title: "Publications"
 excerpt: "Publications"
 permalink: /publications/ 
 ---
-## *Submitted (in review)*
-
-
-
-## *In Press*
-
-**Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Differences in prey availability across space and time lead to interaction rewiring and reshape a predator-prey metaweb. Ecology.
-
-
 
 ## 2022
+
+**Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Differences in prey availability across space and time lead to interaction rewiring and reshape a predator-prey metaweb. Ecology e3716. [Link](https://doi.org/10.1002/ecy.3716) 
 
 Araújo, S.C.; **Ceron, K.**; Guedes, T.B. Use of geospatial analyses to address snakebite hotspots in mid-northern Brazil – a direction to health planning in shortfall biodiversity knowledge areas. Toxicon. 213, 43-51 [Link](https://doi.org/10.1016/j.toxicon.2022.03.012)
 
