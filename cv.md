@@ -68,11 +68,6 @@ The Herpetological Journal
 - Spatial anaylis: QGIS. 
 
 
-## Publications
-
-<-- A list is also available [online](https://www.researchgate.net/profile/Karoline_Ceron) -->
-
-
 ## Awards
 
 `2013`
@@ -80,6 +75,8 @@ Best student poster in 4ª Science and Technology week, UNESC
 
 
 ## Talks
+
+`May/2022` Influência da disponibilidade de presas na dissimilaridade das interações predador-presa. Biofórum, UNICAMP.
 
 `Aug/2021`A disponibilidade de presas e a reorganização das interações governa a estrutura sazonal de uma meta-rede de anuros e presas. USP, PPG Ecologia.
 
