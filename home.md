@@ -5,7 +5,8 @@ permalink: /home/
 
 ---
 
-<img align="right" src="42208875_1866837866725344_6661239537290706944_n.jpg" width="250"/> My name is Karoline Ceron and I am a biologist interested in trophic ecology. I have a Biology degree and Master's Degree from UNESC in Criciúma (SC, Brazil) and  Ph.D. in Ecology and Conservation at UFMS in Campo Grande (MS, Brazil). I am a PostDoc Researcher at laboratory for studies on the structure and dynamics of diversity (LDDiv) at UNICAMP. My current project involves the impact of extinctions on the functionality and evolutionary history in interaction networks between anurans and their prey and their contribution to pest and vector control.
+<img align="right" src="42208875_1866837866725344_6661239537290706944_n.jpg" width="250"/> 
+My name is Karoline Ceron and I am a biologist interested in trophic ecology. I have a Biology degree and Master's Degree from UNESC in Criciúma (SC, Brazil) and  Ph.D. in Ecology and Conservation at UFMS in Campo Grande (MS, Brazil). I am a PostDoc Researcher at laboratory for studies on the structure and dynamics of diversity (LDDiv) at UNICAMP. My current project involves the impact of extinctions on the functionality and evolutionary history in interaction networks between anurans and their prey and their contribution to pest and vector control.
 
 
 ## Research Interests
