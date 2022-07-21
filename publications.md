@@ -4,6 +4,10 @@ excerpt: "Publications"
 permalink: /publications/ 
 ---
 
+## *In review*
+
+Nunes, A.V.; Chiaravalloti, R.M.; Roque, F.O.; Fisher, E.; Angelini, R.; **Ceron, K.**; Mateus, L.; Penha, J. Increasing social risk and markets demand lead to a more selective fishing across the Pantanal wetland. Ecological Economics.
+
 ## 2022
 
 **Ceron, K.**; Provete, D.B.; Pires, M.; Araujo, A.C.; Blüthgen, N.; Santana, D.J. Influence of Prey Availability in the Dissimilarity of Predator–Prey Interactions Bull Ecol Soc Am 103( 3):e01989. [Link](https://doi.org/10.1002/bes2.1989) - Photo Gallery
