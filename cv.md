@@ -25,6 +25,11 @@ Master in Environmental Science
 __Universidade do Extremo Sul Catarinense__
 Bachelor’s in Biological Sciences
 
+## Editorial board
+
+Oikos - Subject Editor
+
+
 ## Reviewer for journals
 
 Anais da Academia Brasileira de Ciências
