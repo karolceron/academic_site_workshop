@@ -79,21 +79,7 @@ The Herpetological Journal
 Best student poster in 4ª Science and Technology week, UNESC 
 
 
-## Talks
 
-`May/2022` Influência da disponibilidade de presas na dissimilaridade das interações predador-presa. Biofórum, UNICAMP.
-
-`Aug/2021`A disponibilidade de presas e a reorganização das interações governa a estrutura sazonal de uma meta-rede de anuros e presas. USP, PPG Ecologia.
-
-`Jun/2021` Global patterns in anuran-prey networks: structure mediated by latitude. UESC, Disciplina de Biologia de Anfíbios.
-
-`Jun/2021` Ecologia Trófica de Anuros. GEAS UFLA.
-
-`Mai/2021` Ecologia Trófica de Anuros: o início, o fim e o meio. GEAS UniBH.
-
-`Apr/2021` Biomas brasileiros: o Pantanal. SESI Indaiatuba.
-
-`Jan/2021` Ecologia Trófica de Anuros. GEAS UNISO.
 
 <!-- ### Footer
 
