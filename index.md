@@ -12,9 +12,14 @@ My name is Karoline Ceron and I am a biologist interested in trophic ecology. I 
 <img align="right" src="images/rio.JPG"/> 
 
 
--------------
+&nbsp;
+
+
+
+
+
 ## Research Interests
-Trophic ecology, Ecological networks, Metacommunity Dynamics, Natural history of Neotropical Herpetofauna 
+Trophic ecology, Ecological networks, community dynamics, Natural history of Neotropical Herpetofauna 
 
 <img align="center" src="https://user-images.githubusercontent.com/65569572/94020964-de4a9c80-fd89-11ea-98c9-6e37fc0e0290.jpg" />
 
