@@ -3,14 +3,17 @@ title: "Publications"
 excerpt: "Publications"
 permalink: /publications/ 
 ---
+## *In press*
+
+**Ceron, K.**; Sales, L.P.; Santana, D.J.; Pires, M.M. Decoupled responses of biodiversity facets driven from anuran vulnerability to climate and land use changes. Ecology Letters.  
 
 ## *In review*
-
-**Ceron, K.**; Sales, L.P.; Santana, D.J.; Pires, M.M. Decoupled responses of biodiversity facets driven from anuran vulnerability to climate and land use changes. 
 
 Nunes, A.V.; Chiaravalloti, R.M.; Roque, F.O.; Fisher, E.; Angelini, R.; **Ceron, K.**; Mateus, L.; Penha, J. Increasing social risk and markets demand lead to a more selective fishing across the Pantanal wetland. Ecological Economics.
 
 Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F.P.; Jetz, W. Tetrapod Traits 1.0: Using phylogenies to elucidate non-random data gaps in the world’s tetrapods.
+
+**Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil.
 
 
 ## 2022
