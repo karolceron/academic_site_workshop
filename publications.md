@@ -11,7 +11,7 @@ Nunes, A.V.; Chiaravalloti, R.M.; Roque, F.O.; Fisher, E.; Angelini, R.; **Ceron
 
 ## *In review*
 
-Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F.P.; Jetz, W. Tetrapod Traits 1.0: Using phylogenies to elucidate non-random data gaps in the world’s tetrapods.
+Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F.P.; Toledo, L.F.; Jetz, W. A phylogeny-informed characterization of global tetrapod traits addresses data gaps and biases. [Preprint](https://doi.org/10.1101/2023.03.04.531098)
 
 **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil.
 
