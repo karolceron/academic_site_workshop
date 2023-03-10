@@ -15,6 +15,8 @@ Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F
 
 **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil.
 
+Moreira, L.; Smaniotto, N.; **Ceron, K.**, Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: short- and long-term effects of fire on Pantanal ecoregion amphibians. 
+
 
 ## 2022
 
