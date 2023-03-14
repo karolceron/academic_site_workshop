@@ -7,8 +7,6 @@ permalink: /publications/
 
 **Ceron, K.**; Sales, L.P.; Santana, D.J.; Pires, M.M. Decoupled responses of biodiversity facets driven from anuran vulnerability to climate and land use changes. Ecology Letters.  
 
-Nunes, A.V.; Chiaravalloti, R.M.; Roque, F.O.; Fisher, E.; Angelini, R.; **Ceron, K.**; Mateus, L.; Penha, J. Increasing social risk and markets demand lead to a more selective fishing across the Pantanal wetland. Ecological Economics.
-
 ## *In review*
 
 Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F.P.; Toledo, L.F.; Jetz, W. A phylogeny-informed characterization of global tetrapod traits addresses data gaps and biases. [Preprint](https://doi.org/10.1101/2023.03.04.531098)
@@ -16,6 +14,11 @@ Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F
 **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil.
 
 Moreira, L.; Smaniotto, N.; **Ceron, K.**, Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: short- and long-term effects of fire on Pantanal ecoregion amphibians. 
+
+
+## 2023
+
+Nunes, A.V.; Chiaravalloti, R.M.; Roque, F.O.; Fisher, E.; Angelini, R.; **Ceron, K.**; Mateus, L.; Penha, J. Increasing social risk and markets demand lead to a more selective fishing across the Pantanal wetland. Ecological Economics, 208: 107791. [Link](https://doi.org/10.1016/j.ecolecon.2023.107791)
 
 
 ## 2022
