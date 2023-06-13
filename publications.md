@@ -3,10 +3,6 @@ title: "Publications"
 excerpt: "Publications"
 permalink: /publications/ 
 ---
-## *In press*
-
- **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil. Food Webs.
- 
 
 ## *In review*
 
@@ -14,6 +10,8 @@ Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F
 
 
 ## 2023
+
+ **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil. Food Webs.  36, e00295. [Link](https://doi.org/10.1016/j.fooweb.2023.e00295)
 
 **Ceron, K.**; Sales, L.P.; Santana, D.J.; Pires, M.M. Decoupled responses of biodiversity facets driven from anuran vulnerability to climate and land use changes. Ecology Letters. 26, 869–882. [Link](https://doi.org/10.1111/ele.14207)
 
