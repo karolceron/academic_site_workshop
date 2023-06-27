@@ -10,7 +10,7 @@ Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F
 
 Santana, D.J.; Ragalzi, E.; Koroiva, R.; Mângia, S.; **Ceron, K.**; Leite, F.; Shepard, D. Lineage diversification of the sky island treefrog *Scinax curicica* (Anura, Hylidae) in the Espinhaço Mountain Range. 
 
-Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.**. Geographic patterns of distribution and ecological niche of the snake-necked turtle genus *Hydromedusa*.
+Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.** Geographic patterns of distribution and ecological niche of the snake-necked turtle genus *Hydromedusa*.
 
 Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys of Atlantic Forest mammals: a dataset for analyses considering imperfect detection.
 
