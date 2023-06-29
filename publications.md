@@ -14,6 +14,10 @@ Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.** Geographic patterns of
 
 Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys of Atlantic Forest mammals: a dataset for analyses considering imperfect detection.
 
+## *In press*
+
+Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of Pseudopaludicola motorzinho (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
+
 ## 2023
 
  **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil. Food Webs.  36, e00295. [Link](https://doi.org/10.1016/j.fooweb.2023.e00295)
