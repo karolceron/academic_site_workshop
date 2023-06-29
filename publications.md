@@ -16,7 +16,7 @@ Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys o
 
 ## *In press*
 
-Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of Pseudopaludicola motorzinho (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
+Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
 ## 2023
 
