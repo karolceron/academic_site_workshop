@@ -27,7 +27,8 @@ Bachelor’s in Biological Sciences
 
 ## Editorial board
 
-Oikos - Subject Editor
+Austral Ecology
+Oikos
 
 
 ## Reviewer for journals
