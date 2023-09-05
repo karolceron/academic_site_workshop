@@ -69,13 +69,16 @@ Phyllomedusa
 The Herpetological Journal
 
 ## Research experience and technical skills
-- Field work to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
+- Fieldwork to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
 
 - Programming languages: R. 
-- Spatial anaylis: QGIS. 
+- Spatial analysis: QGIS. 
 
 
 ## Awards
+
+`2022`
+ Ecology Letters Early Career Researcher Prize
 
 `2013`
 Best student poster in 4ª Science and Technology week, UNESC 
