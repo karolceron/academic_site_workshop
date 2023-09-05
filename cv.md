@@ -66,6 +66,8 @@ PeerJ
 
 Phyllomedusa
 
+Proceedings of the Royal Society B: Biological Sciences
+
 The Herpetological Journal
 
 ## Research experience and technical skills
