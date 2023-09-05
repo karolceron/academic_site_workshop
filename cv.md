@@ -70,6 +70,7 @@ Proceedings of the Royal Society B: Biological Sciences
 
 The Herpetological Journal
 
+
 ## Research experience and technical skills
 - Fieldwork to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
 
@@ -91,3 +92,4 @@ Best student poster in 4ª Science and Technology week, UNESC
 <!-- ### Footer
 
 Last updated: May 2020 -->
+
