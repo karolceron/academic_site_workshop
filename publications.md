@@ -19,6 +19,8 @@ Santana, D.J.; Ragalzi, E.; Koroiva, R.; Mângia, S.; **Ceron, K.**; Leite, F.; 
 
 Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
+Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Acadêmia Brasileira de Ciências.
+
 
 ## 2023
 
