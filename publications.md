@@ -15,14 +15,14 @@ Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys o
 
 ## *In press*
 
-Santana, D.J.; Ragalzi, E.; Koroiva, R.; Mângia, S.; **Ceron, K.**; Leite, F.; Shepard, D. Lineage diversification of the sky island treefrog *Scinax curicica* (Anura, Hylidae) in the Espinhaço Mountain Range. Biological Journal of the Linnean Society. 
-
 Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
 Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Academia Brasileira de Ciências.
 
 
 ## 2023
+
+Santana, D.J.; Ragalzi, E.; Koroiva, R.; Mângia, S.; **Ceron, K.**; Leite, F.; Shepard, D. Lineage diversification of the sky island treefrog *Scinax curicica* (Anura, Hylidae) in the Espinhaço Mountain Range. Biological Journal of the Linnean Society. [Link](https://doi.org/10.1093/biolinnean/blad125)
 
  **Ceron, K**; Paula, T.; Scheibler, P.; Fadel, R.; Guimarães, C., Silva, L.A.; Santana, D.J. Trophic ecology of small to large hylids from an Amazonia-Cerrado transitional zone in Brazil. Food Webs.  36, e00295. [Link](https://doi.org/10.1016/j.fooweb.2023.e00295)
 
