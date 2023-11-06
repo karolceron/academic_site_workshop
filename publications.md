@@ -19,6 +19,7 @@ Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J
 
 Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Academia Brasileira de Ciências.
 
+Moreira, L.; Smaniotto, N.; **Ceron, K.**; Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: the influence of fire and land cover on Pantanal ecoregion amphibians. Amphibia-Reptilia. 
 
 ## 2023
 
