@@ -42,7 +42,7 @@ Current Herpetology; Diversity and Distributions; Ecology and Evolution; Ecology
 ## Research experience and technical skills
 - Fieldwork to survey anuran amphibians in diverse localities in Atlantic Forest, Caatinga, Chaco, Cerrado and Pantanal ecoregions. 
 
-- Programming languages: R. 
+- Programming languages: R (advanced); Python (basic)
 - Spatial analysis: QGIS. 
 
 
@@ -50,6 +50,8 @@ Current Herpetology; Diversity and Distributions; Ecology and Evolution; Ecology
 
 `2022`
  Ecology Letters Early Career Researcher Prize
+ 
+ `2022`
  Highlight of the year in the Biology Institute/UNICAMP - Prize “JOÃO PEDRO MARIZ”
 
 `2013`
