@@ -15,7 +15,7 @@ Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys o
 
 ## *In press*
 
-Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.;**Ceron, K.**; Guedes, T.B. Climate change in open environments: revisiting the current distribution to understand and safeguard the future of psammophilous squamates of the Diagonal of Open Formations of South America. Journal of Arid Environments. 
+Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.; **Ceron, K.**; Guedes, T.B. Climate change in open environments: revisiting the current distribution to understand and safeguard the future of psammophilous squamates of the Diagonal of Open Formations of South America. Journal of Arid Environments. 
 
 Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
