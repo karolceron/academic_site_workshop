@@ -8,12 +8,12 @@ permalink: /publications/
 
 Moura, M.R.; **Ceron, K.**; Guedes, J.J.M; Sica, Y.V.; Catenazzi, A.; Werneck, F.P.; Toledo, L.F.; Jetz, W. A phylogeny-informed characterization of global tetrapod traits addresses data gaps and biases. [Preprint](https://doi.org/10.1101/2023.03.04.531098)
 
-Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.** Geographic patterns of distribution and ecological niche of the snake-necked turtle genus *Hydromedusa*.
-
 Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys of Atlantic Forest mammals: a dataset for analyses considering imperfect detection.
 
 
 ## *In press*
+
+Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.** Geographic patterns of distribution and ecological niche of the snake-necked turtle genus *Hydromedusa*. PeerJ.
 
 Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.; **Ceron, K.**; Guedes, T.B. Climate change in open environments: revisiting the current distribution to understand and safeguard the future of psammophilous squamates of the Diagonal of Open Formations of South America. Journal of Arid Environments. 
 
