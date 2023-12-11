@@ -19,11 +19,11 @@ Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.; **Ceron, K.**; Guedes, T.B. Climat
 
 Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
-Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Academia Brasileira de Ciências.
-
 Moreira, L.; Smaniotto, N.; **Ceron, K.**; Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: the influence of fire and land cover on Pantanal ecoregion amphibians. Amphibia-Reptilia. [Link](https://doi.org/10.1163/15685381-bja10161)
 
 ## 2023
+
+Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Academia Brasileira de Ciências. 95(Suppl. 2): e20230565. [Link](https://doi.org/10.1590/0001-3765202320230565)
 
 Souza, U.F.; Mendonça, L.R.; **Ceron, K.**, Meneses, A.S.O.; Moura, G.J.B.; Dubeux, M.M.; Toledo, L.F. Frog eat frogs: the relationship among the Neotropical frogs of the genus _Leptodactylus_ and their anuran prey. Food Webs, 37, e00326. [Link](https://doi.org/10.1016/j.fooweb.2023.e00326)
 
