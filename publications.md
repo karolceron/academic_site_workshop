@@ -15,13 +15,17 @@ Franceschi, I.; Dornas, R.;... **Ceron, K.**;...Coelho, I. Camera trap surveys o
 
 Muller, M.M.P.; Santana, D.J.; Costa, H.C.; **Ceron, K.** Geographic patterns of distribution and ecological niche of the snake-necked turtle genus *Hydromedusa*. PeerJ.
 
-Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.; **Ceron, K.**; Guedes, T.B. Climate change in open environments: revisiting the current distribution to understand and safeguard the future of psammophilous squamates of the Diagonal of Open Formations of South America. Journal of Arid Environments. 
+ Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
-Cavalheri, D.G.; **Ceron, K.**; Cuestas-Carrillo, J.F.; Neves, M.O; Santana, D.J. Ecological niche modeling of *Pseudopaludicola motorzinho* (Anura, Leptodactylidae), with two new distribution records. Southwestern Naturalist.
 
-Moreira, L.; Smaniotto, N.; **Ceron, K.**; Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: the influence of fire and land cover on Pantanal ecoregion amphibians. Amphibia-Reptilia. [Link](https://doi.org/10.1163/15685381-bja10161)
+## 2024
+
+Moreira, L.; Smaniotto, N.; **Ceron, K.**; Santana, D.J.; Ferreira, V.; Strüssmann, C.; Galatti, U. Ashes still smoking: the influence of fire and land cover on Pantanal ecoregion amphibians. Amphibia-Reptilia, 45: 11-20. [Link](https://doi.org/10.1163/15685381-bja10161)
+
 
 ## 2023
+
+Oliveira, J.S.; Santana, D.J.; Pantoja, D.L.; **Ceron, K.**; Guedes, T.B. Climate change in open environments: revisiting the current distribution to understand and safeguard the future of psammophilous squamates of the Diagonal of Open Formations of South America. Journal of Arid Environments, 220: 105117. [Link](https://doi.org/10.1016/j.jaridenv.2023.105117)
 
 Bisneto, P.F.; Frazão, L.; **Ceron, K.**; Sachett, J.; Monteiro, W.M.; Kaefer, I.L; Guedes, T.B. The challenge in detecting risk areas of snakebite when case rates are low: the case of Amazonian coral snakes. Anais da Academia Brasileira de Ciências. 95(Suppl. 2): e20230565. [Link](https://doi.org/10.1590/0001-3765202320230565)
 
